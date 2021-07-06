@@ -4,6 +4,17 @@
 **deepakbhat-dev/deepakbhat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 -->
 
+&nbsp; &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/deepakbhat-dev">
+  <img alt="Deepak Bhat | LinkedIn" width="55px" src="https://raw.githubusercontent.com/deepakbhat-dev/deepakbhat-dev/main/assets/linkedin.svg" />
+</a>
+&nbsp; &nbsp; &nbsp;
+<a href="https://deepakbhat-dev.github.io">
+  <img alt="Deepak Bhat | Portfolio" width="63x" src="https://raw.githubusercontent.com/deepakbhat-dev/deepakbhat-dev/main/assets/portfolio.svg" />
+</a>
+<br />
+<br />
+
 Passionate **Fullstack Developer** with a demonstrated history of building in the information technology and services industry.
 
 ### <img src="https://media.giphy.com/media/RM5mPyKFwd8S9c5KJt/giphy.gif" width="50"> Arsenal...
