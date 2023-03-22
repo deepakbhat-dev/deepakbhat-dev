@@ -30,8 +30,7 @@ const deepak = {
   architectures: ['RESTfull', 'Microservices', 'Design System Patterns'],
   challenge: 'Learn atleast three things anew every single day.',
   work: {
-    position: 'Software Engineer',
-    organization: 'Granicus'
+    position: 'Software Engineer'
   }
 }
 ```
