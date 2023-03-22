@@ -19,9 +19,7 @@ Passionate **Fullstack Developer** with a demonstrated history of building in th
 
 ### <img src="https://media.giphy.com/media/RM5mPyKFwd8S9c5KJt/giphy.gif" width="50"> Arsenal...
 
-<img align='right' src="https://media.giphy.com/media/cl83qB3OpgHZToeA6h/giphy.gif" height="250" width="280">
-
-<br />
+<img align='right' src="https://media.giphy.com/media/cl83qB3OpgHZToeA6h/giphy.gif" >
 
 ```javascript
 const deepak = {
