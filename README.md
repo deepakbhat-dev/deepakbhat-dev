@@ -24,14 +24,14 @@ Passionate **Fullstack Developer** with a demonstrated history of building in th
 ```javascript
 const deepak = {
   pronoun: 'he' | 'him',
-  code: [Javascript, Ruby, Python, GoLang, Java, HTML, CSS],
+  code: [Javascript, Ruby, Python, GoLang, Java],
   tools: [React, Redux, Node, Storybook, Jest,
-    Rails, Django, Jenkins, Docker, Spinnaker, Splunk],
+    Rails, Django, Jenkins, Docker, Kubernetes, Spinnaker, Splunk],
   architectures: ['RESTfull', 'Microservices', 'Design System Patterns'],
   challenge: 'Learn atleast three things anew every single day.',
   work: {
     position: 'Software Engineer',
-    organization: 'Cerner'
+    organization: 'Granicus'
   }
 }
 ```
